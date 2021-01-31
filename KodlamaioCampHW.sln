@@ -5,13 +5,17 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KodlamaioCampHW", "KodlamaioCampHW\KodlamaioCampHW.csproj", "{CCD7A240-5E01-429C-B6E1-C201E2C53B74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperator", "TernaryOperator\TernaryOperator.csproj", "{E13216DC-A86C-4CDE-BFB2-F25878385C76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TernaryOperator", "TernaryOperator\TernaryOperator.csproj", "{E13216DC-A86C-4CDE-BFB2-F25878385C76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchYapisi", "SwitchYapisi\SwitchYapisi.csproj", "{8237B119-7EEF-4122-B46A-302F889514AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchYapisi", "SwitchYapisi\SwitchYapisi.csproj", "{8237B119-7EEF-4122-B46A-302F889514AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{E8EC7879-9207-404C-8BAB-05E6B541BE13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{E8EC7879-9207-404C-8BAB-05E6B541BE13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductForEachWhile", "ProductForEachWhile\ProductForEachWhile.csproj", "{734754C9-BF10-4813-B2CB-D596333EEDA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductForEachWhile", "ProductForEachWhile\ProductForEachWhile.csproj", "{734754C9-BF10-4813-B2CB-D596333EEDA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{494E813B-DD9D-489B-97D5-039E2F4B23CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{DC57CE32-47AA-41CD-8193-EF67926165E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{734754C9-BF10-4813-B2CB-D596333EEDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{734754C9-BF10-4813-B2CB-D596333EEDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{734754C9-BF10-4813-B2CB-D596333EEDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494E813B-DD9D-489B-97D5-039E2F4B23CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494E813B-DD9D-489B-97D5-039E2F4B23CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494E813B-DD9D-489B-97D5-039E2F4B23CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494E813B-DD9D-489B-97D5-039E2F4B23CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC57CE32-47AA-41CD-8193-EF67926165E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC57CE32-47AA-41CD-8193-EF67926165E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC57CE32-47AA-41CD-8193-EF67926165E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC57CE32-47AA-41CD-8193-EF67926165E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
